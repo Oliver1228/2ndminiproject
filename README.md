@@ -70,8 +70,8 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 =========================================================================================================================================================================
 
-The following processes were done in cleaning the data:
-
+**The following processes were done in cleaning the data:*
+```
 A.	Merges the training and the test sets to create one data set.
     1.	Reading first the individual datasets which include the following:
         a.	'features.txt': List of all features.
@@ -105,3 +105,4 @@ D.	Appropriately labels the data set with descriptive variable names
 E.	From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
     1.	Use the aggregate() function to group the tidy data set by activities and subject and taking the mean of each group.
     2.	Write the cleaned dataset into a text file “tidy_dataset.txt” by using the write.table() function.
+```
