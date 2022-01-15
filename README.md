@@ -1,4 +1,3 @@
-==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
@@ -71,7 +70,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 =========================================================================================================================================================================
 
-The following processes were done in cleaning the data.
+The following processes were done in cleaning the data:
 
 A.	Merges the training and the test sets to create one data set.
     1.	Reading first the individual datasets which include the following:
